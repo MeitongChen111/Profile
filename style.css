@@ -76,10 +76,10 @@ header a:hover {
     font-size: 20px;
     line-height: 1.8em;  
 }
-.shop {
+.MW {
     display:flex;
 }
-.shop img {
+.MW img {
     width:50%;
 }
 .info {
